@@ -4,6 +4,7 @@
 <html>
 	<head>
 		<link href="markdown.css" rel="stylesheet"></link>
+		<meta http-equiv="refresh" content="1" />
 	</head>
 	<body>
 		<div class="site">
